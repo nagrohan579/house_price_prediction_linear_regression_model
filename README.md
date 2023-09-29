@@ -8,7 +8,7 @@ The real estate company intends to use this dataset to develop a predictive mode
 
 ## Dataset Source
 
-The dataset used in this project is obtained from Kaggle. You can find the case study from which this project is inspired based on Kaggle at the following link:
+The dataset used in this project is obtained from Kaggle. You can find the project from which this project is inspired on Kaggle at the following link:
 
 [Kaggle - Housing Price Prediction ( Linear Regression )](https://www.kaggle.com/code/ashydv/housing-price-prediction-linear-regression)
 
